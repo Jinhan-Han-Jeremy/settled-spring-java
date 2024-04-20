@@ -11,7 +11,7 @@ spring:
   datasource:
     url: jdbc:mysql://blogapi-db:3306/blogapi?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
     username: root
-    password: 57575han
+    password:
     driver-class-name: org.h2.Driver
 
   swagger-ui:
